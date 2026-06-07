@@ -253,7 +253,10 @@ curl http://localhost:9000/api/users/count
 
 > **Screenshot:** Local services running — all three terminals active, browser showing both frontends
 
-![Local Deployment](./screenshots/local-deployment.png)
+![Local Deployment](./screenshots/local-deployment-1.png)
+![Local Deployment](./screenshots/local-deployment-2.png)
+![Local Deployment](./screenshots/local-deployment-3.png)
+![Postman Collection](./screenshots/postman-collection.png)
 
 ---
 
